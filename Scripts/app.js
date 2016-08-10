@@ -28,7 +28,7 @@
         stage.update(); // refresh the stage container
     }
     function main() {
-        helloLabel = new objects.Label("Sukhpartap Singh", "40px Consolas", "#000000", 160, 160, true);
+        helloLabel = new objects.Label("Dhrutiben Patel", "40px Consolas", "#000000", 160, 160, true);
         stage.addChild(helloLabel);
     }
     // call init funciton when window finishes loading
